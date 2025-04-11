@@ -42,9 +42,3 @@ coverage report
 ```
 
 The `.coveragerc` configuration file is used to omit test files from the coverage report.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For further inquiries, please contact [your email or GitHub profile link].
